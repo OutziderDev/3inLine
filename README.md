@@ -6,3 +6,4 @@ Repositorio para la creacion del tutorial del famoso juego de * Tic Tac Toe *
 * React:  
 - useState
 - components
+- añadiendo mas contenido
