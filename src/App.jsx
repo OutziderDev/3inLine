@@ -50,7 +50,7 @@ function App() {
         </div>
       </div>
 
-      <h4 className="flex items-center justify-center text-2xl mt-5 font-bold" >{status}</h4>
+      <h4 className="flex items-center justify-center text-2xl mt-5 font-semibold" >{status}</h4>
     </>
   );
 }
