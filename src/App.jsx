@@ -37,7 +37,7 @@ function App() {
       </h1>
 
       <div class="flex justify-center items-center min-h-[60vh]">
-        <div className="grid grid-cols-3 bg-white shadow-lg shadow-blue-300 rounded-lg ">
+        <div className="grid grid-cols-3 bg-white shadow-lg shadow-blue-400 rounded-lg ">
           <Button value={squares[0]} onSquareClick={()=>handleClick(0)}/>
           <Button value={squares[1]} onSquareClick={()=>handleClick(1)}/>
           <Button value={squares[2]} onSquareClick={()=>handleClick(2)}/>
